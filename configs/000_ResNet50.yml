@@ -12,7 +12,7 @@ globals:
     - 0
 
 data:
-  train_skip: /mnt/audiodata/skipped.txt
+  train_skip: input/birdsong-recognition/skipped.txt
   train_df_path: /mnt/audiodata/train.csv
   train_audio_path: /mnt/audiodata/train_audio_resampled
   test_df_path: input/birdsong-recognition/test.csv
